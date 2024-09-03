@@ -1,5 +1,7 @@
 # Sums
 
+I recieved assistance from Daniel Collins. He helped me understand what the for loop was doing in terms of adding elements to an array.
+
 I certify that I have listed all sources used to complete this exercise, including the use
 of any Large Language Models. All of the work is my own, except where stated
 otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
